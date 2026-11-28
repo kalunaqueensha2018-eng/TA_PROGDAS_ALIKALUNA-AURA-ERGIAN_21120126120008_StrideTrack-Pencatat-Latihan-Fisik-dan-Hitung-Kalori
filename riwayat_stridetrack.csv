@@ -1,0 +1,6 @@
+jenis,durasi_menit,jarak_km,berat_kg,target_kalori,kalori,kecepatan_kmh,pace_min_per_km,keterangan_pace,status_target
+Lari,30.0,4.5,51.0,215.0,211.7,9.0,6.67,9.00 km/jam | 6.67 mnt/km,Kurang 3.3 kkal dari target
+Jalan Kaki,30.0,4.2,51.0,100.0,109.6,8.4,7.14,8.40 km/jam | 7.14 mnt/km,Target tercapai (+9.6 kkal)
+Bersepeda,25.0,8.0,51.0,150.0,170.0,19.2,3.12,19.20 km/jam | 3.12 mnt/km,Target tercapai (+20.0 kkal)
+Renang,30.0,0.75,51.0,150.0,153.0,1.5,40.0,1.50 km/jam | 40.00 mnt/km,Target tercapai (+3.0 kkal)
+Latihan Kekuatan,50.0,0.0,51.0,200.0,191.2,0.0,0.0,Berbasis durasi (tanpa jarak),Kurang 8.8 kkal dari target
